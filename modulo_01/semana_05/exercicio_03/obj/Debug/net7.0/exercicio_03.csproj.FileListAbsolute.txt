@@ -1,0 +1,15 @@
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\bin\Debug\net7.0\exercicio_03.exe
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\bin\Debug\net7.0\exercicio_03.deps.json
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\bin\Debug\net7.0\exercicio_03.runtimeconfig.json
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\bin\Debug\net7.0\exercicio_03.dll
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\bin\Debug\net7.0\exercicio_03.pdb
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\exercicio_03.csproj.AssemblyReference.cache
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\exercicio_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\exercicio_03.AssemblyInfoInputs.cache
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\exercicio_03.AssemblyInfo.cs
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\exercicio_03.csproj.CoreCompileInputs.cache
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\exercicio_03.dll
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\refint\exercicio_03.dll
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\exercicio_03.pdb
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\exercicio_03.genruntimeconfig.cache
+D:\SENAI\github\Fullstack_SENAI_SC\modulo_01\semana_05\exercicio_03\obj\Debug\net7.0\ref\exercicio_03.dll
