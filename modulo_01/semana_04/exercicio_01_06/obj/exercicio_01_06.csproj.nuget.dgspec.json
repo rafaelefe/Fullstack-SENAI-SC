@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_03\\exercicio_02_05\\exercicio2_5.csproj": {}
+    "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_04\\exercicio_01_06\\exercicio_01_06.csproj": {}
   },
   "projects": {
-    "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_03\\exercicio_02_05\\exercicio2_5.csproj": {
+    "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_04\\exercicio_01_06\\exercicio_01_06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_03\\exercicio_02_05\\exercicio2_5.csproj",
-        "projectName": "exercicio2_5",
-        "projectPath": "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_03\\exercicio_02_05\\exercicio2_5.csproj",
+        "projectUniqueName": "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_04\\exercicio_01_06\\exercicio_01_06.csproj",
+        "projectName": "exercicio_01_06",
+        "projectPath": "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_04\\exercicio_01_06\\exercicio_01_06.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_03\\exercicio_02_05\\obj\\",
+        "outputPath": "D:\\SENAI\\github\\Fullstack_SENAI_SC\\modulo_01\\semana_04\\exercicio_01_06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
