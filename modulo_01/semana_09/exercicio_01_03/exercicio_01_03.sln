@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bercario", "Bercario.csproj", "{CEB98541-916C-4C1F-BF9B-952A3EC20612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB98541-916C-4C1F-BF9B-952A3EC20612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB98541-916C-4C1F-BF9B-952A3EC20612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB98541-916C-4C1F-BF9B-952A3EC20612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB98541-916C-4C1F-BF9B-952A3EC20612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7956DBD-80D1-4420-A9DA-38239693FCF1}
+	EndGlobalSection
+EndGlobal
